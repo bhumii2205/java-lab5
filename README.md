@@ -124,55 +124,6 @@ Perimeter: 31.42
 Select a shape:
 ...
 ```
-
----
-
-## **📖 Coding Guidelines Followed**
-✅ Each **shape is in a separate file** for modularity  
-✅ Proper use of **abstraction** and **interface-based** design  
-✅ **Meaningful variable and method names**  
-✅ Code follows **proper indentation and comments**  
-✅ Each function **performs a single responsibility**  
-✅ **GitHub commits** are structured for clarity  
-
----
-
-## **🔧 Future Enhancements**
-- ✅ Add **more shapes** like **cone and prism**  
-- ✅ Implement a **GUI-based version**  
-- ✅ Add **unit tests** for method validation  
-- ✅ Implement a **history feature** to save past calculations  
-
----
-
-## **📂 GitHub Repository**
-[🔗 **Shape Calculator on GitHub**](https://github.com/YOUR_GITHUB_USERNAME/ShapeCalculator)  
-
-📌 **Clone the repository:**
-```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/ShapeCalculator.git
-```
-
----
-
-## **📌 Git Commit Messages**
-| **Commit**  | **Message** |
-|-------------|------------|
-| 🎯 **Project Initialization** | `Initial commit: Set up Shape project structure` |
-| ✨ **Added Abstract Class** | `Added abstract class Shape with base structure` |
-| 🔄 **Added Interface** | `Created Volume interface for volume calculation` |
-| 🔵 **Implemented Circle Class** | `Added Circle.java with area and perimeter calculations` |
-| 🟢 **Implemented Rectangle Class** | `Added Rectangle.java with area and perimeter calculations` |
-| 🟡 **Implemented Square Class** | `Added Square.java with area and perimeter calculations` |
-| ⚪ **Implemented Sphere Class** | `Added Sphere.java with surface area and volume calculations` |
-| 🔵 **Implemented Cylinder Class** | `Added Cylinder.java with surface area and volume calculations` |
-| 🔺 **Implemented Pyramid Class** | `Added EquilateralPyramid.java with surface area and volume calculations` |
-| 🏗 **Created Main Program** | `Created menu-driven Main.java for user interaction` |
-| 📝 **Added README** | `Added README file with project description and usage` |
-| ✅ **Final Code Refinement** | `Code cleanup and documentation improvements` |
-
----
-
 ## **💡 Conclusion**
 This **Shape Calculator** project is a **well-structured Java program** that efficiently calculates the **area, perimeter, and volume** of different shapes.  
 It follows **OOP principles**, maintains **code modularity**, and ensures **scalability for future enhancements**. 🚀  
