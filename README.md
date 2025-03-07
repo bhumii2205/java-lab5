@@ -1,7 +1,3 @@
-Here’s a **detailed and well-structured README** for your **Shape Calculator** project, following all best practices:  
-
----
-
 # **Shape Calculator**  
 A **Java-based menu-driven program** that calculates the **area, perimeter, and volume** of various geometric shapes. The program follows **Object-Oriented Programming (OOP)** principles using **abstraction** and **interfaces**.
 
